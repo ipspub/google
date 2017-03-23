@@ -1,0 +1,13 @@
+.fake-input { position: relative; width:240px; }
+.fake-input input { border:none: background:#fff; display:block; width: 100%; box-sizing: border-box }
+.fake-input img { position: absolute; top: 312px; left: 380% }
+.txt:hover {
+    text-decoration: underline;
+}
+.txt {
+color: #555555
+}
+body {
+font-family: "Veranda", Veranda, sans-serif;
+font-size: 12px;
+}
